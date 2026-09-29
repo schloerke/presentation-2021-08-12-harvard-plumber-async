@@ -1,4 +1,6 @@
-# `plumber` + `future`: Async Web APIs
+# Harvard R User Group - `plumber` + `future`: Async Web APIs
+
+Talk given at the [R User Group at Harvard Data Science Initiative](https://www.youtube.com/c/RUserGroupatHarvardDataScienceInitiative/videos)
 
 <table style="margin:0px">
   <tr>
@@ -10,9 +12,9 @@
 
 ## Slides
 
-* HTML: http://schloerke.com/presentation-2021-01-rstudio-global-plumber-async
+* Recording: https://www.youtube.com/watch?v=eHrzsIGY0so
 
-* PDF: http://schloerke.com/presentation-2021-01-rstudio-global-plumber-async/plumber_future.pdf
+* HTML: http://schloerke.com/presentation-2021-08-12-harvard-plumber-async
 
 
 ## Resources for learning more
